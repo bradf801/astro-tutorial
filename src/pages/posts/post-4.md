@@ -14,7 +14,7 @@ Hello, this post was created to test the `Astro.glob()` functionality on the [Bl
 
 ## Why that's cool
 
-1. **Components!**: Components are a great the fuctionality of a lot of 
+1. **Components!**: Components enable the fuctionality of a lot of the development that goes into building pages in the Astro framework.
 
 2. **Glob**: The Glob functionallity pulls data from other parts of the website and creates a dynamic list of blog posts
 
